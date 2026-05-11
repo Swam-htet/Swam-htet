@@ -45,15 +45,6 @@ $ cat current.todo
 
 ---
 
-### `~/stats`
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Swam-htet&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dracula" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swam-htet&layout=compact&hide_border=true&langs_count=8&theme=dracula" />
-</p>
-
----
-
 ### `~/connect`
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swamhtet)
